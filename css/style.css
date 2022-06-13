@@ -14,7 +14,7 @@ body {
 }
 
 .bg {
-  background: url('/IMG/bg.jpeg') 
+  background: url('/blurrypage/IMG/bg.jpeg') 
     no-repeat center center/cover;
   position: absolute;
   top: -30px;
